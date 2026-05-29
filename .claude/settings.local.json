@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ':*)",
+      "Bash(python -c ':*)",
+      "Bash(C:/Users/user/Anaconda3/envs/seunghyun/python.exe \"c:/Users/user/Downloads/fix_sections.py\")",
+      "Bash(ffmpeg -y -i '/c/Users/user/Downloads/1277_TriMotion_Modality_Agnost_Supplementary Material/videos/i2v_examples/827_source.mp4' -vframes 1 -update 1 '/c/Users/user/Downloads/1277_TriMotion_Modality_Agnost_Supplementary Material/videos/i2v_examples/827_source.png')",
+      "Bash(ffmpeg -y -i '/c/Users/user/Downloads/1277_TriMotion_Modality_Agnost_Supplementary Material/videos/i2v_examples/375_source.mp4' -vframes 1 -update 1 '/c/Users/user/Downloads/1277_TriMotion_Modality_Agnost_Supplementary Material/videos/i2v_examples/375_source.png')"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\user\\Downloads"
+    ]
+  }
+}
