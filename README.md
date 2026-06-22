@@ -364,10 +364,10 @@ python caption_pose.py \
 If you find TriMotion useful in your research, please cite our paper:
 
 ```bibtex
-@article{shin2025trimotion,
+@inproceedings{shin2025trimotion,
   title={TriMotion: Modality-Agnostic Camera Control for Video Generation},
   author={Shin, Seunghyun and Song, Jifei and Jeon, Wooseok and Jeon, Hae-Gon and Deng, Jiankang},
-  journal={arXiv preprint arXiv:2506.XXXXX},
-  year={2025},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2026}
 }
 ```
