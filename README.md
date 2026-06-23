@@ -15,7 +15,7 @@
 
 ## 📢 News
 
-
+- **[2026-06]** Our paper is accepted at **ECCV2026**.
 - **[2026-04]** Code, checkpoints, and the **Motion Triplet Dataset** are released.
 
 ---
