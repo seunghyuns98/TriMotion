@@ -207,7 +207,7 @@ We release the **Motion Triplet Dataset**, built upon the [MultiCamVideo Dataset
 **Preparation**
 
 1. Download the **MultiCamVideo Dataset** into the `MotionTriplet-Dataset/` directory.
-2. Download our **Motion Descriptions** from [Google Drive](https://drive.google.com/file/d/1k4c7M6ttohMEXq1EVn7PARg0f8M7fLBA/view?usp=sharing).
+2. Download our **Motion Descriptions** from [Google Drive](https://drive.google.com/file/d/1VD-9rAHo1vJH_Vtx0NOFGzeDr5TfBh6I/view?usp=sharing).
 3. Run the preparation script:
 
 ```bash
