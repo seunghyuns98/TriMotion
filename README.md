@@ -11,6 +11,27 @@
   <img src="assets/teaser.png" width="90%">
 </p>
 
+<div align="center">
+Seunghyun Shin<sup>1,2</sup>, 
+Jifei Song<sup>2</sup>, 
+Wooseok Jeon<sup>3</sup>, 
+Hae-Gon Jeon<sup>3&dagger;</sup>, 
+Jiankang Deng<sup>4&dagger;</sup>, 
+
+<br>
+<sup>1</sup>GIST
+<sup>2</sup>Huawei Darwin Research Center
+<sup>3</sup>Yonsei University
+<sup>4</sup>Imperial College London
+
+ECCV 2026
+
+ <a href='https://arxiv.org/abs/2606.20774v1'><img src='https://img.shields.io/badge/arXiv-2508.00548-b31b1b.svg'></a> &nbsp;
+</div>
+
+
+
+
 ---
 
 ## 📢 News
