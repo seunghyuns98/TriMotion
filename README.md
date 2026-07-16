@@ -26,7 +26,8 @@ Jiankang Deng<sup>4&dagger;</sup>,
 
 ECCV 2026
 
- <a href='https://arxiv.org/abs/2606.20774v1'><img src='https://img.shields.io/badge/arXiv-2508.00548-b31b1b.svg'></a> &nbsp;
+  <a href='https://seunghyuns98.github.io/TriMotion'><img src='https://img.shields.io/badge/Project-Page-Green'></a>&nbsp;
+  <a href='https://arxiv.org/abs/2606.20774v1'><img src='https://img.shields.io/badge/arXiv-2508.00548-b31b1b.svg'></a> &nbsp;
 </div>
 
 
