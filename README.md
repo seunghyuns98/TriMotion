@@ -38,7 +38,7 @@ ECCV 2026
 ## 📢 News
 
 - **[2026-06]** Our paper is accepted at **ECCV2026**.
-- **[2026-04]** Code, checkpoints, and the **Motion Triplet Dataset** are released.
+- **[2026-04]** Code, checkpoints, and the **Motion Triplet Dataset** are released. If you find TriMotion useful, please help ⭐ this repo, which is important to Open-Source projects. Thanks!
 
 ---
 
