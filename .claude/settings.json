@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "WebFetch(domain:dohunlee1.github.io)",
-      "Bash(gh api:*)"
-    ]
-  }
-}
